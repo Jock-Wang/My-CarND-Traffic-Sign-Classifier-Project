@@ -22,11 +22,11 @@ The goals / steps of this project are the following:
 [image1]: ./writen_image/visualization.png "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./test_image/1.png "1"
-[image5]: ./test_image/2.png "2"
-[image6]: ./test_image/3.png "3"
-[image7]: ./test_image/4.png "4"
-[image8]: ./test_image/5.png "5"
+[image4]: ./test_image/1.png
+[image5]: ./test_image/2.png
+[image6]: ./test_image/3.png
+[image7]: ./test_image/4.png
+[image8]: ./test_image/5.png
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
