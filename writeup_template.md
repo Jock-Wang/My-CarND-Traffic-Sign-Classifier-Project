@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
+[image1]: ./writen_image/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/placeholder.png "Traffic Sign 1"
@@ -61,7 +61,7 @@ signs data set:
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
 
-![alt text][1.png]
+![alt text][image1]
 
 ### Design and Test a Model Architecture
 
