@@ -22,11 +22,11 @@ The goals / steps of this project are the following:
 [image1]: ./writen_image/visualization.png "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./test_image/1.png "Traffic Sign 1"
-[image5]: ./test_image/2.png "Traffic Sign 2"
-[image6]: ./test_image/3.png "Traffic Sign 3"
-[image7]: ./test_image/4.png "Traffic Sign 4"
-[image8]: ./test_image/5.png "Traffic Sign 5"
+[image4]: ./test_image/1.png "1"
+[image5]: ./test_image/2.png "2"
+[image6]: ./test_image/3.png "3"
+[image7]: ./test_image/4.png "4"
+[image8]: ./test_image/5.png "5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -58,7 +58,7 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set.
 
 
 ![alt text][image1]
