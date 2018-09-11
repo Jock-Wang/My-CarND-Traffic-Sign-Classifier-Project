@@ -27,6 +27,7 @@ The goals / steps of this project are the following:
 [image6]: ./test_image/3.png
 [image7]: ./test_image/4.png
 [image8]: ./test_image/5.png
+[image9]: ./writen_image/top5.png
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -157,9 +158,9 @@ Here are the results of the prediction:
 | Priority road	      		| No vehicles					 				|
 | Go straight or left			| Go straight or left      							|
 
-
+The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. 
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction and identify where in your code softmax probabilities were outputted. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
-The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. 
+![alt text][image9]
 
 
