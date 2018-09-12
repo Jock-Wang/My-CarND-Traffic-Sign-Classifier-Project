@@ -162,5 +162,7 @@ The model was able to correctly guess 4 of the 5 traffic signs, which gives an a
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction and identify where in your code softmax probabilities were outputted. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 ![alt text][image9]
-
+the probability of the first image is 100%,and the probability of the second image is 99.94%,close to 100%;the probability of the third image is 100%;
+the probability of the first image is 99.61%,close to 100%,but is it's wrong;the probability of the forth image is 56.8%,the probability is not high;
+I think there are two reasons for the prediction，the first is the model is too complicated,the second is that the train set too small,we need large images to train the model.
 
